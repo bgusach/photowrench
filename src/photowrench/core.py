@@ -17,7 +17,7 @@ except NameError:
 
 
 def _log(msg):
-    print('remove-orphan-raws: %s' % msg, file=sys.stderr)
+    print('photowrench: %s' % msg, file=sys.stderr)
 
 
 def remove_raw_orphans(dir, pic_exts, raw_exts, batch):

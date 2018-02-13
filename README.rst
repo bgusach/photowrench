@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/pypi/v/photowrench.svg
+   :alt: PyPI Version
+   :target: https://pypi.python.org/pypi/photowrench/
+
 photowrench
 ===========
 
@@ -8,3 +12,10 @@ kind of annoying. So far following commands are implemented:
 - ``rename-to-timestamp``:  Renames files to their timestamp
 
 Type anytime ``photowrench -h`` to see commands and options.
+
+Instalation
+-----------
+
+This is in PyPI, so just run::
+
+    pip install photowrench
